@@ -1,0 +1,8 @@
+--- #YAML:1.0
+module_name: Matrix
+dist_version_from: script/matrix.pl
+installdirs: site
+requires:
+distribution_type: script
+license: perl
+dist_abstract: Matrix generator
